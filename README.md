@@ -75,4 +75,10 @@ use in an application.
 ### Git
 Git is a popular version control system for source code management. It allows developers to keep track of changes in their code and
 develop in a way that ensures that bugs can be dealt with easily. Git was used to obtain the source code for the application which was
-developed for a previous [Udacity project]().
+developed for a previous [Udacity project](https://github.com/TristinH/item-catalog).
+
+#### Configuration
+Git was installed by default on my AWS instance. Therefore, no special configuration was required on my part
+
+#### Resources
+To learn how to clone and perform other useful actions I referenced this [link](https://git-scm.com/).
