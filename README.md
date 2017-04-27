@@ -16,4 +16,4 @@ same directory to ensure the app ran correctly. To notify Apache of the app I cr
 /etc/apache2/sites-available directory giving Apache the necessary information to run the app.  
 
 #### Resources
-
+The main resource I used to properly install and configure apache was a how to guide at this [link](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps).
