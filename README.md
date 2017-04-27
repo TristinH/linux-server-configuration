@@ -1,6 +1,8 @@
 # Linux Server Configuration
 
 ## IP and URL
+SSH Port: 2200
+
 IP Address: 34.195.89.57
 
 URL: http://34.195.89.57/
