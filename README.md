@@ -61,4 +61,18 @@ to ensure the database was set up securely I followed this [guide](https://www.d
 
 
 ### SQL Alchemy
-SQL Alchemy is an object relational mapper that simplifies a lot of the hassle of setting up a database driven application.
+SQL Alchemy is an object relational mapper that simplifies a lot of the hassle of setting up a database driven application. It makes
+it possible to structure your code in a way that takes advantage of object oriented programming aspects with a database backing it.
+
+#### Configuration
+The default installation of SQL Alchemy was sufficient to successfully run my application. 
+
+#### Resources
+The SQL Alchemy [website](https://www.sqlalchemy.org/) provided all that was necessary to properly install and set up SQL Alchemy for
+use in an application. 
+
+
+### Git
+Git is a popular version control system for source code management. It allows developers to keep track of changes in their code and
+develop in a way that ensures that bugs can be dealt with easily. Git was used to obtain the source code for the application which was
+developed for a previous [Udacity project]().
