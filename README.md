@@ -1,11 +1,18 @@
 # Linux Server Configuration
 
+## Overview
+
+The goal of this project was to setup and configure a server to serve the [item catalog]() project completed previously in the full 
+stack nanodegree. The server was provided by AWS and was setup using Amazon Lightsail. The software required to run the application and 
+to secure the server had to be installed and properly configured. Below is a summary of everything that was necessary to succesfully 
+completing this project. **Note: The AWS instance running my application is no longer active.**
+
 ## IP and URL
 SSH Port: 2200
 
-IP Address: 34.195.89.57
+IP Address: No longer active
 
-URL: http://34.195.89.57/
+URL: No longer active
 
 ## Software Installed, Configurations, and Third Party Resources
 
