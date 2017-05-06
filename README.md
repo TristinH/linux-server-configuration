@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project was to setup and configure a server to serve the [item catalog]() project completed previously in the full 
+The goal of this project was to setup and configure a server to serve the [item catalog](https://github.com/TristinH/item-catalog) project completed previously in the full 
 stack nanodegree. The server was provided by AWS and was setup using Amazon Lightsail. The software required to run the application and 
 to secure the server had to be installed and properly configured. Below is a summary of everything that was necessary to succesfully 
 completing this project. **Note: The AWS instance running my application is no longer active.**
